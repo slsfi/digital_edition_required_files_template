@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ms 1: NB 244.150 Zonas Bok 1</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>CG (28-05-2008)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>TG (08-01-2009)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Manuskriptets signum: se ovan</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote medium="black-ink"/>
+        <handNote/>
+      </handNotes>
+    <creation><origDate>1845-XX-XX</origDate><idNo>18284</idNo><idNo type="bookid"/><idNo type="collection">199</idNo><title type="main">Ljungblommor</title></creation><textClass><catRef target="cg_poem"/><catRef target="ce_annotations"/></textClass></profileDesc>
+    <revisionDesc>
+      <change>
+
+      </change>
+      <change>
+
+      </change>
+    </revisionDesc>
+  <encodingDesc><classDecl><taxonomy xml:id="cat_genre"><category xml:id="cg_poem"><catDesc>Poem</catDesc></category><category xml:id="cg_letter"><catDesc>Letter</catDesc></category><category xml:id="cg_childrensliterature"><catDesc>Children's literature</catDesc></category><category xml:id="cg_diary"><catDesc>Diary</catDesc></category><category xml:id="cg_nonfiction"><catDesc>Non-fiction</catDesc></category><category xml:id="cg_prose"><catDesc>Prose</catDesc></category><category xml:id="cg_drama"><catDesc>Drama</catDesc></category></taxonomy><taxonomy xml:id="cat_editorial"><category xml:id="ce_readingtext"><catDesc>Reading text</catDesc></category><category xml:id="ce_introduction"><catDesc>Introduction</catDesc></category><category xml:id="ce_titlepage"><catDesc>Title Page</catDesc></category><category xml:id="ce_annotations"><catDesc>Annotations</catDesc></category><category xml:id="ce_basetext"><catDesc>Base text</catDesc></category><category xml:id="ce_version"><catDesc>Version</catDesc></category><category xml:id="ce_manuscript"><catDesc>Manuscript</catDesc></category></taxonomy></classDecl></encodingDesc></teiHeader>
+  <text>
+    <body xml:space="preserve">
+      <div>
+        <head xml:id="h1"><hi rend="underline">Ljungblommor.</hi><lb/>2.</head>
+        <dateline>
+          <date when="--02-08">Febr. 8.</date>
+        </dateline>
+        <lg xml:id="lg1">
+          <delSpan type="immediate" spanTo="#del1"/>
+          <l>Blommor wexa uppå ljungen,</l>
+          <l>Uppå heden</l>
+          <anchor id="del1"/>
+          <l>Vilda skogen har sin blomma</l>
+          <l>Och sin doft har ödemarken,</l>
+          <l>Ljungen har sin bleka rodnad,</l>
+          <l>Heden äger ock sin glädje;</l>
+          <l><del type="immediate">Hwad har</del> <add type="immediate">Och det</add> <del type="immediate">arma</del><add type="immediate">rika</add> menskohjertat</l>
+          <l><del type="immediate">Äger</del>Skall<gap reason="overstrike" extent="1" unit="words"/>, mer armt än ödemarken,</l>
+          <l><del type="immediate">Mer</del>Wissnadt mer än sorgsna heden,</l>
+          <l>Det ej sina blommor bära,</l>
+          <l>Le i glans och doft och ära?</l>
+          <l part="y">Skön är glädjen,</l>
+          <l>Äfven sorgen har sin ljufhet,</l>
+          <l>Sången är ett barn af båda,</l>
+          <delSpan type="immediate" rend="strikethrough" spanTo="#del2"/>
+          <l>Längtan heter hennes moder amma</l>
+          <anchor id="del2"/>
+          <l>Hon är ljuflig till att skåda,</l>
+          <l>Längtan heter hennes amma,</l>
+          <l>Kärlek hennes fostrarinna</l>
+          <l part="y">Och de lärde henne</l>
+          <l><del type="immediate">Hwad</del>Allt hwad lifwet äger renast.</l>
+          <l>Allt hwad döden äger skönast</l>
+          <l>Och hwad <space extent="1" unit="words"/> wet allenast.</l>
+        </lg>
+        <lg xml:id="lg2">
+          <l>Ofta sjöng jag förr i glädjen,</l>
+          <l>Oftare ändå i sorgen,</l>
+          <l>Nu hos mig bor ingendera</l>
+          <l>Och dock tror jag bo de båda.</l>
+          <l>Nu will jag <del>från</del><add>i</add> ödemarken</l>
+          <l>Plocka glans och doft och glädje,</l>
+          <l>Will för gamla och för unga</l>
+          <l>Än en sång om Suomi sjunga,</l>
+        </lg>
+        <lg xml:id="lg3">
+          <delSpan spanTo="#del4"/>
+          <l>Många wågor gå i hafwet,</l>
+          <l>Många windar gå på bergen</l>
+          <anchor id="del4"/>
+          <l>Många ljud har menskotunga −</l>
+          <l>Hwilket är af alla kärast?</l>
+        </lg>
+        <lg xml:id="lg4">
+          <l>Nu i glädje Aina sjunger,</l>
+          <l>Aina kojans lilla flicka,</l>
+          <l>Lekkamrat åt Fanny fordom,</l>
+          <l>Ljufligt är när Aina sjunger;</l>
+          <l>Fanny sitter wid pianot,</l>
+          <l part="y">Fanny</l>
+          <l>Slår en ton och slår en annan,</l>
+          <l>Hwarje ton är Fannys hjerta,</l>
+          <l>Ljufligt är när Fanny spelar.</l>
+          <l>Men jag wet en liten saga,</l>
+          <l part="y">Ganska kort</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

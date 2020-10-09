@@ -1,0 +1,31 @@
+# Publicistik
+
+Topelius var redaktör för *Helsingfors Tidningar* mellan 1842 och 1860. Senare medverkade han också i andra tidningar, men det är hans banbrytande insats för *Helsingfors Tidningar* som skall uppmärksammas här. Tidningen hade sedan starten 1829 uppfattats som handelsborgerskapets tidning i huvudstaden. Den utkom två gånger i veckan med ett tvåspaltigt fyrsidigt nummer, tills redaktören lyckades förmå tidningsägaren att 1854 övergå till ett större format med tre spalter. Upplagan växte från 717 exemplar när Topelius övertog redaktionen till 2 356 när han lämnade den.<br/>
+
+## Helsingfors Tidningar före Topelius
+
+Under hela Topelius tid som redaktör rådde förhandscensur för pressen i Finland. Det innebar att utrikespolitiska nyheter länge fick publiceras bara av det officiella organet *Finlands Allmänna Tidning*, och pressens val av ämnen och infallsvinklar begränsades. Någon debatt om politiska frågor kunde egentligen inte föras. Seriösa artiklar var av tradition mycket utförliga i finländsk press och inte det minsta läsvänliga eller anpassade för en icke-akademisk publik. Det mindre seriösa materialet var å andra sidan påfallande lättviktigt importgods utan någon anknytning till inhemska, lokala förhållanden.<br/>
+
+Det stående innehållet i *Helsingfors Tidningar* före Topelius bestod av kungörelser, utnämningar, stiftsnyheter och börskurser. Notiser ur utländska blad om rena kuriositeter publicerades under rubriken »Pot-Pourri» och insända dikter eller översättningar av dikter ingick då och då. Läsarna fick också ta del av översatta följetonger. Torgpriser och upplysningar om vilka utsocknes »resande» som besökte Helsingfors var lokalt material, och hit kan notiserna om konserter och gästande teatersällskap liksom annonserna också räknas.<br/>
+
+## Topelius introducerar nya genrer
+
+Topelius införde lokalreportaget, kåseriet och sina egna följetonger, som alltså var specialskrivna för tidningen. Han rapporterade om teaterföreställningar och andra evenemang, och han recenserade samma föreställningar och skrev om nyutkomna böcker. I kåserier kompletterade han det mer seriösa materialet med pikanta detaljer och framför allt med Helsingforspublikens reaktioner. Topelius uppfann den fiktive löjtnanten Leopold som tjänstgör i Grusien eller Bessarabien och en gång i månaden får brev från hemstaden. Breven innehåller en koncentrerad dos lättsamt framförda nyheter och små slängar till helsingforsarna eller till konkurrerande tidningar – eller anspelningar på censuren som sätter käppar i hjulet för redaktören. Breven, »Leopoldinerbreven», har blivit ett begrepp i finländsk presshistoria. De var naturligtvis avsedda för hemmapubliken som fick läsa om sin stad och om sig själva – ibland i lätt karikerad form. Detta slags inbegripande av läsarna var nytt i finländsk press.<br/>
+
+Följetongerna var en viktig ingrediens i 1800-talets tidningar och Topelius publicerade genom åren den ena berättelsen efter den andra. Läsekretsen som tidigare hade fått hålla till godo med tafatt översatta följetonger om »En natt på Nilen» kunde nu läsa samtidsnoveller, historiska skildringar och spännande spökhistorier som utspelade sig i hemlandet. (För mera om Topelius följetonger, se Prosa.)<br/>
+
+Topelius var inte enbart ute efter att roa läsarna. Han efterlyste lånebibliotek och simskolor och lyfte upprepade gånger fram missförhållanden, som när han 1858 skrev om de höga hyrorna i Helsingfors och 1859 om fattiga helsingforsares miserabla bostäder. Topelius kritiserade tjänstefolkets utsatta ställning och talade tidigt för »folknöjen för de lägre klassernas trefnad». Pedagogiskt nog tog han upp problemen i artikelform och återkom till dem i fiktiva, kåserande brev för att låta obehagliga fakta lättare sjunka in.<br/>
+
+## Majfesten 1848
+
+Studenternas majfest på Floradagen 1848 är en märkesdag i Finlands kulturhistoria. Runebergs »Vårt land» sjöngs då för första gången i Fredrik Pacius tonsättning och Fredrik Cygnæus höll ett bejublat tal. Festen har framstått som en stor manifestation av nationell hänförelse och studententusiasm – mycket på grund av Topelius framställning i *Helsingfors Tidningar*. I skildringen av festen utnyttjade Topelius skickligt de publicistiska uttrycksformer som stod honom till buds. Den 17 maj ingår ett utförligt och högstämt reportage, där Topelius återkallar stämningen »när Hr C. med lågande wältalighet prisade lyckan att wara född i ett land så skönt som Finland – och derwid pekade han på aftonskimret i wikarna och månen som höjde sig i wårnatten öfwer grantopparna – och talade om alla Finlands minnen och Finlands hopp, med maning att för detta land lefwa och dö, – då tårades månget öga och de swällande känslorna sökte sig luft i outsläckeliga jubelrop, som icke sällan afbröto talet. Till sist blottades alla hufwuden för Finlands namn, musik och sång uppstämde 'Wårt land', som begärdes om och åter om; enthusiasmen war obeskriflig».<br/>
+
+I följande nummer av tidningen, den 20 maj, publicerar Topelius dikten »Finlands Namn» där han i bunden form skildrar majfesten. Dikten hör till hans mest uppskattade med nationellt motiv. – Reportaget avslutas med upplysningen att »hela majfesten, som, med allt sitt jubel, dock aflopp med en ordning, en måtta, som af alla erkändes, qwarlemnade hos alla ett angenämt och lifwande minne». Men Topelius är inte enbart en högstämd krönikör och festpoet. I majbrevet till Leopold rapporterar kåsören Topelius om mängderna alkohol som gick åt under festen, de 5 000 cigarrerna och de 600 glasen som krossades eller försvann när folket tog över på nattkröken och »tjufpojkar nappade åt sig smörgåsar och cigarrer, käringar plockade glas i förklädena». Så belyser han i olika perspektiv högt och lågt i huvudstadens liv.<br/>
+
+### Lästips
+
+Päiviö Tommila, »Nykyajan mahtavimpia miehiä», *Genos* 69 (1998), s. 162–165, 212–213.<br/>
+Zachris Topelius, *Leopoldinerbrev. Correspondence från Helsingfors*, utg. Clas Zilliacus, Helsingfors: Schildts 2003.<br/>
+Clas Zilliacus & Henrik Knif, *Opinionens tryck. En studie över pressens bildningsskede i Finland*, Skrifter utgivna av Svenska litteratursällskapet i Finland 526, Helsingfors 1985.<br/>
+
+Reportaget från den 17 maj 1848, dikten »Finlands Namn» och Leopoldinerbrevet med rubriken »Från Helsingfors» kan läsas på nätet i Finskt Historiskt Tidningsbibliotek.<br/>

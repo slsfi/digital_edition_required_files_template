@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../../../../Instruktioner,%20manualer,%20scheman/TEI-scheman%20(AM)/tei_lyrikschema_varianttexter.xsd"
+ xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.sls.fi/tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Helsingfors Tidningar 4/3 1843, nr 18</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>CE (01-10-2010)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>NN (XX-XX-200X)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Uppdatering av kodning:</resp>
+          <name>EV (04-06-2014)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+   
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+    <variantEncoding method="parallel-segmentation" location="internal"/>
+    </encodingDesc>
+   
+   
+   
+   
+  </teiHeader>
+  <text>
+    <body xml:space="preserve">
+      <!-- – ” ’ -->
+      <div type="poem">
+        
+        <p rend="noIndent">[de inledande stroferna utgör dikten "Ljungblommor"]</p>
+        <lb/>
+        <lg>
+        <l><app id="var1"><rdg type="empty"/></app></l>
+          <l>Så det ädla Suomifolket,</l>
+          <l>Så det <app id="var2" type="ide"><rdg>visa folket</rdg></app> säger:</l>
+          <l>Sången är af sorg upprunnen,</l>
+          <l>Men af sång är glädje vunnen.</l>
+        </lg>
+
+        <lg>
+          <l><anchor id="struct1a" subtype="ide"/>Runotar bor långt i skogen,</l>
+          <l>Fjerran uppå mon är kojan,</l>
+          <l>Låg är kojan, hög är tallen,</l>
+          <l>Runotar af qvinnor visast.</l>
+          <l>Sånger kan hon många tusen,</l>
+          <l>Kan från ny till nedan sjunga,</l>
+          <l>Vet hvad icke många veta,</l>
+          <l>Kan allt ondt med ord besvärja,</l>
+          <l>Ofärd ifrån menskor värja.<anchor id="struct1b" subtype="ide"/></l>
+        </lg>
+
+        <lg>
+          <l><anchor id="struct2a" subtype="ide"/>Kom en dag en gladlynt främling,</l>
+          <l>Trädde i den låga kojan:</l>
+          <l>”Frid med dig, du sagomoder,</l>
+          <l>Vidtberömda sångarinna!</l>
+          <l>Vida vägar har jag vandrat,</l>
+          <l>Fjerran ditt beröm förnummit;</l>
+          <l>Nu, o moder! ett mig lofva:</l>
+          <l>Lär mig sångens goda gåfva!”<anchor id="struct2b" subtype="ide"/></l>
+        </lg>
+
+        <lg>
+          <l><anchor id="struct3a" subtype="ide"/>Runotar, den visa qvinnan,</l>
+          <l>Sagomodren, log och sade:</l>
+          <l>”Ej om tusen ord jag hade</l>
+          <l>Och dig tusen sånger lärde,</l>
+          <l>Ej om all din tid du sute</l>
+          <l>Vid min härd och täljde runor,</l>
+          <l>Smidde dem af guld och silfver,</l>
+          <l>Dem af sol och måne bygde,</l>
+          <l>Kan det <app type="sub" id="var20"><rdg>ena</rdg></app> jag dig lofva:</l>
+          <l>Lära sångens goda gåfva.”<anchor id="struct3b" subtype="ide"/></l>
+        </lg>
+
+        <lg>
+          <l><app id="var6" type="ide"><rdg>Sade främlingen bedröfvad:</rdg></app></l>
+          <l>”Hvad skall jag, o <app id="var7" type="int"><rdg>moder!</rdg></app> göra?”</l>
+          <l>Sade Runotar, den visa:</l>
+          <l>”Gå <app id="var8" type="ide"><rdg>dit bort</rdg></app> i ödemarken,</l>
+          <l>Göm en sorg uti ditt hjerta,</l>
+          <l>Då skall sången ro dig <app id="var9" type="int"><rdg>gifva,</rdg></app></l>
+          <l><app id="var10" type="ide"><rdg>Dina läppar sjelfmant lifva;</rdg></app></l>
+          <l>Sången är af sorg upprunnen,</l>
+          <l><app id="var11" type="ide"><rdg>Men af sång är glädje vunnen.”</rdg></app></l>
+        </lg>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.tei-c.org/ns/1.0 file:/T:/Instruktioner,%20manualer,%20scheman/TEI-scheman%20(AM)/tei_lyrikschema.xsd"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ljungblommor I, Hfrs 1845</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>CE (06-10-2009)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>TG (26-10-2009)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+      <notesStmt />
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote />
+        <handNote />
+      </handNotes>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+      </change>
+      <change>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:space="preserve">
+      <!-- – » ’ -->
+      <div type="poem">
+        <pb type="orig" n="3" />
+        <pb type="ZTS" n="4" />
+        <head type="title"><anchor id="posls1"/>Sången.</head>
+        <lg>
+          <l>Så är sagan nu om sången,</l>
+          <l>Så det ädla Suomifolket,</l>
+          <l>Så det visa folket säger:</l>
+          <l>
+            <anchor xml:id="start410" />Sången är af sorg upprunnen,</l>
+          <l>Men af sång är glädje vunnen.<anchor xml:id="end410" /></l>
+        </lg>
+        <lg>
+          <l><anchor xml:id="start411" /><persName corresp="my199">Runotar</persName><anchor xml:id="end411" /> bor långt i skogen,</l>
+          <l>Fjerran uppå mon är kojan,</l>
+          <l>Låg är kojan, hög är tallen,</l>
+          <l>
+            <persName corresp="my199">Runotar</persName> af qvinnor visast.</l>
+          <l>Sånger kan hon många tusen,</l>
+          <l>Kan från ny till nedan sjunga,</l>
+          <l>Vet hvad icke många veta,</l>
+          <l>Kan allt ondt med ord besvärja,</l>
+          <l>Ofärd ifrån menskor värja.</l>
+        </lg>
+        <lg>
+          <l>Kom en dag en gladlynt främling,</l>
+          <l>Trädde i den låga kojan:</l>
+          <pb type="orig" n="5" />
+          <l>»Frid med dig, du sagomoder,</l>
+          <l>Vidtberömda sångarinna!</l>
+          <l>Vida vägar har jag vandrat,</l>
+          <l>Fjerran ditt beröm förnummit;</l>
+          <l>Nu, o moder, ett mig lofva:</l>
+          <l>Lär mig sångens goda gåfva!»</l>
+        </lg>
+        <lg>
+          <l>
+            <persName corresp="my199">Runotar</persName>, den visa qvinnan,</l>
+          <l>Sagomodren, log och sade:</l>
+          <l>»Ej om tusen ord jag hade</l>
+          <l>Och dig tusen sånger lärde,</l>
+          <l>Ej om all din tid du sutte</l>
+          <l>Vid min härd och täljde runor,</l>
+          <l>Smidde dem af guld och silfver,</l>
+          <pb type="ZTS" n="5" />
+          <l>Dem af sol och måne byggde,</l>
+          <l>Kan det enda jag dig lofva:</l>
+          <l>Lära <anchor xml:id="start412" />sångens goda gåfva.»<anchor xml:id="end412" /></l>
+        </lg>
+        <lg>
+          <l>Sade främlingen bedröfvad:</l>
+          <l>»Hvad skall jag, o moder, göra?»</l>
+          <l>Sade <persName corresp="my199">Runotar</persName>, den visa:</l>
+          <l>
+            <anchor xml:id="start413" />»Gå dit bort i ödemarken,</l>
+          <l>Göm en sorg uti ditt hjerta,</l>
+          <l>Då skall sången ro dig gifva;</l>
+          <l>Dina läppar sjelfmant lifva;</l>
+          <l>Sången är af sorg upprunnen,</l>
+          <l>Men af sång är glädje vunnen.»<anchor xml:id="end413" /></l>
+        </lg>
+        <dateline>
+          <date when="1842">1842.</date>
+        </dateline>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

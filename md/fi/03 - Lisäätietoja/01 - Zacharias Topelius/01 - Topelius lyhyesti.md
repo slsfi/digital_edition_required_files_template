@@ -1,0 +1,3 @@
+# Zacharias Topelius
+
+Zacharias Topelius (1818–1898) kasvoi Pohjanmaan Uudessakaarlepyyssä, Kuddnäsin tilalla. Hänen suuressa suvussaan oli hyvin toimeentulevia porvareita, lääkäreitä ja pappeja. Topelius huvitteli mielellään pikkukaupungin seurapiireissä, joissa hän myös tutustui tulevaan puolisoonsa. Valmistuttuaan maisteriksi hän elätti perheensä Helsingissä aloitteellisena sanomalehtitoimittajana ja loi menestyksekkään uran kirjailijana, professorina ja mielipidevaikuttajana. Viimeiset vuotensa Topelius eli arvostettuna kirjailijana huvilassaan Koivuniemessä, Sipoon Östersundomissa.<br/>

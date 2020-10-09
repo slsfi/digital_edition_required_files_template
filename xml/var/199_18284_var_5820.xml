@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sls.fi/tei http://www.sls.fi/tei/tei_poem.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Helsingfors Tidningar 4/3 1843, nr 18</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>NN (XX-XX-200X)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>NN (XX-XX-200X)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+      <notesStmt/>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+    <variantEncoding method="parallell-segmentation" location="internal"/>
+    </encodingDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote/>
+        <handNote/>
+      </handNotes>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+      </change>
+      <change>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- – ” ’ -->
+      <div type="poem">
+        <head type="title">Ljungblommor.</head>
+          <head type="motto"><app id="var1" type="sub"><rdg>2. Sången <note id="ftn1" n="*)" place="foot" anchored="true">N:o 1 är införd i Hf. Tidn. 1842 N:o 36. Den här anförda ”sagan” är till sitt ursprung Finsk.</note>.</rdg></app></head>
+  
+        <lg>
+          <l><app id="var2" type="ide"><rdg>Vilda skogen</rdg></app> <app id="var2a" type="ide"><rdg>har</rdg></app> sin <app id="var3" type="ide"><rdg>blomma</rdg></app> </l>
+          <l>Och sin doft <app id="var4" type="ide"><rdg>har</rdg></app> <app id="var5" type="ide"><rdg>ödemarken,</rdg></app></l>
+          <l>Ljungen har sin bleka rodnad,</l>
+          <l><app id="var6" type="ide"><rdg>Heden äger ock</rdg></app> sin glädje;</l>
+          <l>Och det rika menskohjertat, </l>
+          <app id="var7" type="ide"><rdg><l>Skall, mer armt än ödemarken,</l>
+          <l>Fattigt mer än sorgsna heden,</l></rdg></app>
+          <l><app id="var9" type="ide"><rdg>Det ej sina</rdg></app> blommor bära,</l>
+          <l><app id="var10" type="ide"><rdg>Sjelf sin ljufva tröst ej nära?</rdg></app></l>
+        </lg>
+        
+<lg>
+        <app id="var11" type="sub"><rdg><l>O så gladt du sjöng, min Elli!</l>
+          <l>Och så sorgset du, min Aina!</l>
+          <l>Gerna hör jag glädjen sjunga,</l>
+          <l>Sorgen bort i sång försmälta;</l>
+          <l>Älskeligt ni sjungit båda.</l>
+          <l>Nu en saga hör om sången!</l>
+          <l>Aina skall den sagan älska,</l>
+          <l>Elli skall den ej förskjuta.</l></rdg></app>
+          </lg>
+          <lb/>
+          <p rend="noIndent">[härefter följer v.2-41 av ”Sången”.]</p>
+          <lb/>
+      </div>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="http://www.sls.fi/tei/tei_ms_changes.xsl"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../../../../Instruktioner,%20manualer,%20scheman/TEI-scheman%20(AM)/tei_manuskriptschema_lyrik.xsd"
+ xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ms: NB 244.150 Zonas Bok 1</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>CG (28-05-2008)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>TG (27-01-2009)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Manuskriptets signum: se ovan</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote medium="black-ink"/>
+        <handNote/>
+      </handNotes>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+      </change>
+      <change>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:space="preserve">
+      <div type="poem" part="y">
+        <head>XXIII. <hi rend="underline">Blommorna på Heden.</hi></head>
+        <head type="motto">1. <hi rend="underline">Efter Finskan.</hi></head>
+      <lg>
+        <l>Intill en gammal quinnas låga dörr</l>
+        <l>från fjerran orter kom en mångrest främling.</l>
+        <l>”Du sång- och sagokunniga! ifrån</l>
+        <l>aflägsna orter sökte jag dig upp,</l>
+        <l>att lära sångens goda himla gåfva</l>
+        <l>af dig, som undfått den till menskors tröst.”</l>
+        <l>”Dig lära! Nej, o främling, ej af mig</l>
+        <l>och ej af dödlig mund du sången lär</l>
+        <l>om ej uti din egen barm den klingar.</l>
+        <l>Men gå i öknen, dölj dig ensam der,</l>
+        <l>och skaffa sorg uti ditt hjerta, främling!</l>
+        <l>Då skall den milda sången i ditt bröst</l>
+        <l>sig sjelfmant sänka ned och bli din tröst.</l>
+      </lg>
+        <dateline><date when="1839">1839.</date></dateline>
+    </div>
+    </body>
+  </text>
+</TEI>

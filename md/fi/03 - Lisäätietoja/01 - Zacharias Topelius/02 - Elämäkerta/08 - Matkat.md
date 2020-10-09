@@ -1,0 +1,29 @@
+# Matkat
+
+Suomesta Topelius oppi tuntemaan lähinnä ne paikkakunnat, joilla hän kävi monilla matkoillaan synnynkaupunkinsa Uudenkaarlepyyn ja Helsingin välillä. Kesällä 1851 hän sai maan itäosiin suuntautuneella matkallaan tutustua Haminaan, Viipuriin, Lappeenrantaan, Imatraan, Savonlinnaan, Punkaharjuun, Kuopioon ym.<br/>
+
+Topelius matkusti myös useita kertoja ulkomaille – vuosien 1843 ja 1896 välillä yksitoista kertaa. Hän kävi yhteensä kymmenkunnassa maassa. Useimmiten matka suuntautui Ruotsiin, mutta hän teki myös kolme pitkää matkaa mannermaalle. Vuonna 1845 hän kävi Tallinnassa, joka ei tehnyt häneen vaikutusta, ja kolme vuosikymmentä myöhemmin Pietarissa, missä hän edusti yliopistoa varakansleri, kreivi Alexander Armfeltin 80-vuotispäivillä.<br/>
+
+## Ruotsi
+
+Topeliuksen ensimmäinen matka Ruotsiin 1843 oli poliittisesti uhkarohkea. Suomalaiset ylioppilaat oli kutsuttu skandinaaviseen ylioppilaskokoukseen Uppsalaan, mutta osallistuminen saattoi johtaa yliopistosta erottamiseen. Topelius ja toiset samanmieliset erosivat sen vuoksi varovaisuustoimenpiteenä yliopistosta mutta päättivät asiaa harkittuaan osallistua vain varsinaisen kokouksen jälkeisiin tilaisuuksiin.<br/>
+
+Seuraavat matkat Ruotsiin Topelius teki perheineen lähinnä terveyssyistä. Kesällä 1862 hän kävi yhdessä Emilie-rouvan ja Aina-tyttären kanssa ensimmäisen kerran suositussa Marstrandin kylpylässä Bohusin läänissä. Marstrandista käsin Topelius kävi Lontoon maailmannäyttelyssä, jossa hän kauhisteli sitä, miten vaatimattomasti kotimaa oli edustettuna.<br/>
+
+Myös osallistumisensa Lundin yliopiston 200-vuotisjuhliin toukokuussa 1868 Topelius yhdisti oleskeluun Marstrandissa. Tällä matkalla hän kävi tapaamassa mm. kirjailija G.H. Melliniä, joka oli julkaissut teoksen *Sverige framstäldt i teckningar* ja oli monien Ruotsin ja Suomen historiaa käsittelevien novellien kirjoittaja. Keisarillisen Aleksanterin-Yliopiston rehtorina hän oli läsnä myös Uppsalan yliopiston 400-vuotisjuhlassa syyskuussa 1877. Riemujuhlassa Topelius söi päivällistä Oskar II:n pöydässä, ja hän esiintyi suuressa kansanjuhlassa Kasvitieteellisessä puutarhassa.<br/>
+
+Topelius-puolisot oleskelivat viimeisen kerran yhdessä ulkomailla kesällä 1881 Visbyssä. Emilielle oli suositeltu kylpyläkuuria ja hän matkusti kesäkuussa Aina-tyttären kanssa Gotlantiin. Elokuussa Topelius vietti yhden viikon Visbyssä. Hän kävi kaupungissa toistamiseen pari vuotta ennen kuolemaansa. Työskenneltyään tiiviisti *Talvi-iltain tarinoiden* kolmannen osan ja *Lukemisia lapsille* -kirjan viimeisen osan parissa hän hakeutui Gotlantiin lepäämään ja rentoutumaan. Joitakin vuosia aikaisemmin Topelius oli työstänyt historiallista romaaniaan *Tähtien turvatit* ja käynyt siinä yhteydessä tutkimusmatkalla kuninkaanlinnassa Tukholmassa ja Gripsholmin linnassa 1888. Matka Visbystä 1896 kävi Tukholman kautta, missä sadat koululaiset toivottivat satusedän tervetulleeksi. Ruotsin pääkaupungissa hän kävi myös Skansenilla oppaanaan ystävä ja ulkomuseon perustaja Artur Hazelius.<br/>
+
+## Itämeren eteläpuolella
+
+Topelius lähti ensimmäiselle suurelle matkalleen mannermaalle toukokuussa 1856. Hän kävi useissa paikoissa Saksassa, Belgiassa, Ranskassa, Tanskassa ja Ruotsissa. Kymmenen viikon aikana hänellä oli mahdollisuus nähdä ja kokea paljon sellaista, mistä hän oli kirjoittanut lehdessään tai lukenut muista lehdistä. Kokemuksensa hän julkaisi jälkeenpäin matkakirjeinä *Helsingfors Tidningarissa* otsikolla »Söderom Östersjön» (*Matkahavaintoja*: »Itämeren eteläpuolella 1856»).<br/>
+
+Topeliukseen teki vaikutuksen se mitä hän näki: tehtaat, rautatiet, katuvalaistus, vesijohdot jne. Erityisen lämpimästi hän suhtautui kauniiseen, viljavaan Belgiaan, olihan Belgia vielä kaksikielinenkin. Matkan päämääränä oli Pariisi, missä hän kävi suuressa maailmannäyttelyssä ja katsoi kaikki pakolliset nähtävyydet. Tässä suurkaupungissa illat päättyivät aina teatteri- tai oopperakäynteihin, mutta Pohjolasta tullut pikkukaupunkilainen tunsi olevansa kuin »särki meressä».<br/>
+
+Parinkymmenen vuoden kuluttua, syksyllä 1875, sekä Topelius että Emilie Topelius olivat niin huonossa kunnossa, että he saivat neuvon oleskella pitemmän aikaa Välimeren ilmastossa. Onnistuttuaan saamaan vuoden virkavapauden yliopiston rehtoraatista, johon hänet oli hiljakkoin valittu, Topelius matkusti etelään puolisonsa ja tyttäriensä kanssa. Toini ja Eva saivat tämän kymmenen kuukauden mittaisen matkan aikana nähdä maailmaa. Pisimmän ajan, viisi kuukautta, perhe oleskeli Cannesissa, missä tyttärillä oli mahdollisuus opiskella ranskaa ja italiaa. Tällä kertaa Topelius lähetti matkakirjeensä *Morgonbladetiin*, kun taas Toini kirjoitti selostuksia *Hufvudstadsbladetiin*. Emilien sairauden takia perheen piti viettää aika hiljaista elämää, eikä hänen tilansa sanottavasti parantunut lämpimämmässä ilmastossa, pikemminkin päinvastoin. Kotimatka Italian ja Sveitsin kautta piti suorittaa vaiheittain, jotta se ei olisi ollut liian raskas.<br/>
+
+esällä 1886 Topelius matkusti Eva-tyttären kanssa etelään kaksi kuukautta kestäneelle kylpylämatkalle Saksan ja Sveitsin Alpeille. Siellä oleskeli myös August Strindberg, mutta häntä Topeliuksen ei tehnyt mieli tavata. Sekä meno- että tulomatka kulki Kööpenhaminan kautta, jossa tarjoutui tiivis ohjelma monine vierailuineen. Puolison vuotta aikaisemmin tapahtunut kuolema oli laimentanut Topeliuksen kirjoitushaluja, mutta vaikuttavassa alppimaisemassa hän huomasi niiden vähitellen palaavan.<br/>
+
+### Lukuvihjeitä
+
+Stig-Björn Nyberg, »’Lyckliga Belgien’. Topelius utrikesresor 1843, 1845 och 1856», *SFV-kalendern 1997*, Helsingfors: Svenska folkskolans vänner 1997, s. 30–40.

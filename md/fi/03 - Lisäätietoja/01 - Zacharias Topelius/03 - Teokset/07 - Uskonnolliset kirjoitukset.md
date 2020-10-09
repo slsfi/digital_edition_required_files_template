@@ -1,0 +1,25 @@
+# Uskonnolliset kirjoitukset
+
+Topeliuksen kirjailijantyötä leimaa hänen romanttisesti värittynyt kristillisyytensä. Hänen käsityksensä mukaan yksilö ja kansakunta tarvitsivat opettavaista, kristinuskosta lähtevää johdatusta. Topelius uskoi lujasti sallimuksen voimaan maailmanhistoriassa; Euroopan kansojen kohtaloita ohjasi Jumala tai Kaitselmus. Suomen erityistehtävänä oli viedä sivistystä kauemmas itään ja pohjoiseen. Topeliuksen uskonnollinen näkemys muuttui ankarammaksi ja pessimistisemmäksi 1860-luvun lopulla. Hänen mielestään kristinuskoon kohdistetut lisääntyneet hyökkäykset osoittivat, että maailma oli menossa kohti tuhoaan. Kirjoituksissaan, yksityisissä muistiinpanoissaan ja päivälehdissä käydyissä debateissa hän sanoutui irti yhteiskunnan uudenaikaistamisesta, kirjallisesta realismista ja naturalismista sekä darwinismista ja syntymässä olleesta sosialismista. – Topelius toimi useissa kirkollisissa yhteyksissä, kuten virsikirjakomiteassa uuden virsikirjan saamiseksi Suomeen.<br/>
+
+## Muistiinpanoja elämästä ja Raamatusta
+
+1870-luvun alussa Topelius rupesi pitämään kahta muistiinpanokirjaa, jotka sisällöltään täydensivät toisiaan. Toisessa oli muistiinpanoja »salatusta elämästä» ja toisessa »Pyhästä kirjasta». Ensiksi mainittuun hän merkitsi kuulemiaan tai lukemiaan mystisiä tapahtumia, ennusmerkkejä, profetioita ym., jotka viittasivat siihen, että maailman viimeiset ajat olivat käsillä. Kirjassa on kuusikymmentä sivua ja kolmisenkymmentä otsaketta.<br/>
+
+Pyhästä kirjasta kirjoitetut muistiinpanot muodostavat yksityisen Raamatun hakusanakirjan, johon Topelius kirjoitti muistiin todellisuudessa kohtaamiaan raamatunkohtia vahvistavia ilmiöitä. Raamattusitaatit on ryhmitelty 73 otsakkeen alle, jollaisia ovat esimerkiksi »Maailmanhallinto», »Hyvät henget», »Hadeksesta», »Tuhatvuotinen valtakunta», »Rationalismia vastaan» ja »Lapsista». Lisäksi muistikirjassa on erityisiä »Muistiinpanoja Uudesta Testamentista». Molemmat muistiinpanokirjat antavat arvokkaita tietoja vanhenevan Topeliuksen ajattelusta ja maailmankuvasta, ja niihin perustui myös hänen viimeinen, molemmilla kielillä 1898 ilmestynyt kirjansa *Blad ur min tänkebok*, *Lehtisiä mietekirjastani*.<br/>
+
+## Lehtisiä mietekirjastani
+
+Topelius kypsytteli kauan ajatusta, että hän tiivistäisi »henkilökohtaisen käsityksensä ajan ja ikuisuuden suurista kysymyksistä» kirjan muotoon. Vuonna 1870 hän teki ensimmäisen suunnitelman mietekirjaksi ja ryhtyi pitämään kahta yllä mainittua muistiinpanokirjaa. 1880-luvulla hän kirjoitti romaanin *Tähtien turvatit* (*Planeternas skyddslingar* 1886, suom. 1890), jossa hän kääntyy uskonnollista välinpitämättömyyttä sekä materialismia ja itsekkyyttä vastaan. Varhaisin *Lehtisiä mietekirjastani* -teoksen luku on päivätty 1887. Tämän jälkeen hän piti mietekirjan kirjoittamisessa tauon mm. kirjoittaakseen *Evankeliumin lapsille*, *Evangelium för barnen* (molemmilla kielillä 1893).<br/>
+
+Syksyllä 1894 Topelius sai halvauskohtauksen, minkä jälkeen mietekirjan sisältö muuttui hengellisemmäksi. Tervehdyttyään hän kirjoitti useimmat kirjan yhteensä 40 luvusta, ja vielä viimeisenä työpäivänään helmikuussa 1898 hän työskenteli kirjan parissa. Kirja painettiin postuumisti Topeliuksen myöhemmän suunnitelman mukaisesti, ja alkusanat kirjoitti tytär, kirjailija Toini Topelius. Kuusi lukua jäi julkaisematta, ja vielä useampi jäi halvauskohtauksen takia kirjoittamatta, mm. naiskysymystä, kuvataidetta ja kuolemanrangaistusta koskevat luvut. Mietekirjassaan Topelius siis käsittelee ensi sijassa uskonnollisia asioita, joita ovat »Usko ja tieto», »Iankaikkinen elämä», »Synti, armo ja omatunto», »Sallimus», »Enkelit» ja »Kansa ja isänmaa», mutta myös maallisia aiheita, joita ovat »Sanomalehdistö», »Puolueet», »Raha» ja »Työ».<br/>
+
+## Evankeliumi lapsille
+
+Lapset ja heidän ajatusmaailmansa olivat Topeliuksen mielestä ihanteellisia. Teoksessaan *Lehtisiä mietekirjastani* hän tuo esiin lasten kyvyn nähdä maailma kokonaisena ja »objektiivisesti»; lapset eivät harrasta laskelmointia eivätkä epätervettä ajattelua. Sen vuoksi Topeliuksesta oli erityisen tärkeää julkaista erityinen *Evankeliumi lapsille*. Siinä on lyhyitä selityksiä kirkkovuoden evankeliumiteksteistä. Topelius ei halunnut puhua lapsille kirkon saarnanuotilla, vaan pikemminkin kodin ja koulun tutummalla kielellä, koska lapset eivät jaksa kiinnostua väsyttävästä tai vaikeasti ymmärrettävästä kielestä. Konkreettisten esimerkkien avulla lapsetkin saataisiin ymmärtämään, mitä tarkoitti synti, armo, parannus ja vanhurskauttaminen.<br/>
+
+### Lukuvihjeitä
+
+Nils Erik Forsgård, *I det femte inseglets tecken. En studie i den åldrande Zacharias Topelius livs- och historiefilosofi*, Skrifter utgivna av Svenska litteratursällskapet i Finland 616, Helsingfors 1998.<br/>
+Lena Huldén, »Zachris Topelius och darwinismens genombrott i Finland», *Topelius elää – Topelius lever*, Topeliussällskapets skrifter 1, Jyväskylä: Atena 2005, s. 53–65.<br/>
+Mauri Noro, *Kaitselmusaate Topeliuksen historianfilosofiassa*, Porvoo/Helsinki: WSOY 1968.<br/>

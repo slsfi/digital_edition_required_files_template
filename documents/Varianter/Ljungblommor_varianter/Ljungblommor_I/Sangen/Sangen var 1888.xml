@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?><TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../../../../Instruktioner,%20manualer,%20scheman/TEI-scheman%20(AM)/tei_lyrikschema_grundtext.xsd"
+ xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.sls.fi/tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sånger I, Sthlm 1888</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>CE (01-10-2010)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>NN (XX-XX-200X)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Uppdatering av kodning:</resp>
+          <name>EV (04-06-2014)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+    
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+    <variantEncoding method="parallel-segmentation" location="internal"/>
+    </encodingDesc>
+ 
+    
+    
+    
+  
+  
+  </teiHeader>
+  <text>
+    <body xml:space="preserve">
+      <!-- – ” ’ -->
+      <div type="poem">
+        <head type="title">Sången.</head>
+        <lg>
+          <l><app id="var1" type="ide"><rdg>Så är sagan nu om sången,</rdg></app></l>
+          <l>Så det ädla Suomifolket,</l>
+          <l>Så <app id="var2" type="sub"><rdg>den vise barden</rdg></app> säger:</l>
+          <l>Sången är af sorg upprunnen,</l>
+          <l>Men af sång är glädje vunnen.</l>
+        </lg>
+<lg>
+          <l><anchor id="struct1a"/>Långt i fjerran ödemarkens</l>
+          <l>Vindomsusade, förgätna</l>
+          <l>Sorgsna mo, vid insjöns stränder</l>
+          <l>Och den höga åsens branter,</l>
+          <l>Står en koja, gömd och ringa.</l>
+          <l>Låg är kojan, hög är furan,</l>
+          <l>Högt är forssens dån, och mäktigt</l>
+          <l>Mer än alla menskotankar</l>
+          <l>Slår naturens stora hjerta.</l>
+          <l>Runotar, den ädla sångens</l>
+          <l>Höga moder, bor i kojan,</l>
+          <l>Sångens moder, sångens dotter,</l>
+          <l>Bor allena, bor i armod,</l>
+          <l>Bor i sorg och bor i längtan,</l>
+          <l>Sällare än lyckans skötbarn,</l>
+          <l>Rikare än kungadöttrar,</l>
+          <l>Icke heller alltför ensam. </l>
+          <l>Många spår till kojan leda,</l>
+          <l>Lätta spår, som vända tyngre,</l>
+          <l>Med ett sviket hopp, tillbaka.<anchor id="struct1b"/></l>
+        </lg>
+        <lg>
+          <l><anchor id="struct2a"/>Kom en dag en munter yngling:</l>
+          <l>”Frid med dig, du sångarmoder,</l>
+          <l>Diktens ädla fostrarinna!</l>
+          <l>Länge dina spår jag följde,</l>
+          <l>Sökte dig i stadens hvimmel,</l>
+          <l>Sökte dig i bygdens lekar,</l>
+          <l>Sökte dig i tärnans löjen</l>
+          <l>Och vid bägarns rand förgäfves.</l>
+          <l>Nu, o moder, ett mig lofva:</l>
+          <l>Lär mig sångens gudagåfva!”<anchor id="struct2b"/></l>
+        </lg>
+
+        <lg>
+          <l><anchor id="struct3a"/>Runotar, den ädla sångens</l>
+          <l>Höga moder, log och sade:</l>
+          <l>”Fann du icke mig i staden,</l>
+          <l>Ej i bygdens glada lekar,</l>
+          <l>Ej i tärnans lätta löjen</l>
+          <l>Och vid bräddade pokalen;</l>
+          <l>Hvarför kom du hit till öde</l>
+          <l>Tufvans ljung och vågens flöde?”</l>
+        </lg>
+        <lg>
+          <l>Sade ynglingen: ”O moder,</l>
+          <l>Vid din härd vill jag förblifva,</l>
+          <l>Dina furor vill jag slöjda,</l>
+          <l>Tusen år jag stum vill lyssna</l>
+          <l>Här på dina tusen sånger</l>
+          <l>Och den första och den sista</l>
+          <l>Djupt uti mitt minne rista.”</l>
+        </lg>
+        <lg>
+          <l>Sade sångens visa moder:</l>
+          <l>”Tusen år kan du förblifva,</l>
+          <l>Tusen sånger kan jag gifva,</l>
+          <l>Och den första och den sista</l>
+          <l>Kan du djupt i minnet rista.</l>
+          <l>Och dock kan jag dig ej lofva</l>
+          <l>Sångens goda gudagåfva.”<anchor id="struct3b"/></l>
+        </lg>
+
+        <lg>
+          <app id="var6" type="sub"><rdg><l>Sade ynglingen bedröfvad:</l>
+          <l>”Öppen är min själ, mitt öra;</l></rdg></app>
+          <l>Hvad skall jag, o <app id="var7" type="ide"><rdg>moder,</rdg></app> göra?”</l>
+        </lg>
+        <lg>
+          <l>Sade Runotar, den visa:</l>
+          <l>”Gå <app id="var8" type="sub"><rdg>allen</rdg></app> i ödemarken,</l>
+          <l>Göm en sorg uti ditt hjerta,</l>
+          <l>Då skall sången ro dig <app id="var9" type="int"><rdg>gifva,</rdg></app></l>
+          <l><app id="var10" type="sub"><rdg>Sjelfmant dina läppar lifva.</rdg></app></l>
+            <l>Sången är af sorg upprunnen,</l>
+              <app id="var11" type="sub"><rdg><l>Men är sångens gåfva funnen,</l>
+          <l>Si så är din sorg försvunnen</l>
+          <l>Och odödlig glädje vunnen.”</l></rdg></app>
+        </lg>
+        <dateline><date when="1842">1842.</date></dateline>
+      </div>
+    </body>
+  </text>
+</TEI>

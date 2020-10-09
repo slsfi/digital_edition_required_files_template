@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <author></author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date></date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <name>Anna Movall1</name>
+                <date>2018-05-25</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<body xml:space="preserve">
+<figure type="illustration"><graphic url="omslag_1.jpg"/></figure>
+<lb/>
+<head type="ZTS">Zacharias Topelius Skrifter I</head>
+<lb/>
+<p rend="center">Zacharias Topelius</p>
+<lb/>
+<head type="title">Ljungblommor</head>
+<lb/>
+<lb/>
+<p rend="center">Utgiven av Carola Herberts </p>
+<p rend="center">under medverkan av Clas Zilliacus</p>
+<lb/>
+<lb/>
+<p rend="center">Svenska litteratursällskapet i Finland</p>
+<p rend="center">Helsingfors 2010</p>
+<lb/>
+<p rend="center">Skrifter utgivna av Svenska litteratursällskapet i Finland nr 742<lb/>ISSN 0039-6842 (tryckt)<lb/>ISSN 2490-1547 (digital)</p>
+<lb/>
+<p rend="center">&#x00A9; Carola Herberts, Clas Zilliacus och</p>
+<p rend="center">Svenska litteratursällskapet i Finland</p>
+<lb/>
+<lb/>
+<p rend="center">Ladda ner utgåvan som <xref type="ext" target="http://urn.fi/URN:NBN:fi:sls-978-951-583-219-1">pdf</xref>.</p>
+<p rend="center">Hänvisa till denna digitala utgåva: <xref type="ext" target="http://urn.fi/URN:NBN:fi:sls-6601-1508156399">URN:NBN:fi:sls-6601-1508156399</xref>.</p>
+<p rend="center">Lästexternas och inledningens hänvisningsuppgifter finns under rubriken <hi rend="italics">Hänvisa</hi> ovanför lästextspalten.</p>
+<lb/>
+<lb/>
+<p rend="noIndent">Förord till den digitala utgåvan av Zacharias Topelius Skrifter I, <hi rend="italics">Ljungblommor</hi></p>
+<lb/>
+<p rend="noIndent">Zacharias Topelius debuterade som författare 1845 med diktsamlingen <hi rend="italics">Ljungblommor</hi> och den inleder den första delen av utgåvan Zacharias Topelius Skrifter. I samma del ingår <hi rend="italics">Ljungblommor</hi> II (1850) och <hi rend="italics">Ljungblommor</hi> III (1854), kompletterade med de nya dikter som ingår i den reviderade upplagan <hi rend="italics">Sånger</hi> I (1860).</p>
+<p>Den etablerade texten i den digitala utgåvan motsvarar bokutgåvan. De textkritiska kommentarerna är däremot mer omfattande i den digitala utgåvan: här presenteras fullständiga variantvisningar, faksimil, fotografier av manuskripten och kollationeringsformler. Diktkommentarerna är också utförligare, med bakgrundsteckningar och utskrivna citat från <hi rend="italics">Helsingfors Tidningar</hi>.</p>
+<lb/>
+<p rend="noIndent">Ledande editionsredaktören fil. dr Pia Forssell har hållit sin hand över arbetet i alla dess faser. Hela redaktionsrådet, framför allt fil. dr h. c. Rainer Knapas och docent Barbro Ståhle Sjönell, har bidragit med värdefulla synpunkter.</p>
+<p>Clas Zilliacus är ansvarig redaktör för delen <hi rend="italics">Ljungblommor</hi>.</p>
+<lb/>
+<p rend="noIndent">Carola Herberts</p>
+<lb/>
+<lb/>
+<table rend="noBorder">
+<row>
+<cell>Utgivare</cell>
+<cell>Carola Herberts, fil.mag., redaktör</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Clas Zilliacus, professor</cell>
+</row>
+<row>
+<cell>Inledning</cell>
+<cell>Clas Zilliacus</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Den samtida receptionen: Carola Herberts</cell>
+</row>
+<row>
+<cell>Textkritisk inledning</cell>
+<cell>Carola Herberts</cell>
+</row>
+<row>
+<cell>Kommentarer</cell>
+<cell>Carola Herberts i samarbete med</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Arne Toftegaard Pedersen, fil.&#x00A0;dr och</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Clas Zilliacus</cell>
+</row>
+<row>
+<cell>Textetablering</cell>
+<cell>Carola Herberts</cell>
+</row>
+<row>
+<cell>Kontrolläsning och kollationering</cell>
+<cell>Cecilia Eriksson, pol.&#x00A0;kand., redaktionsassistent</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Catharina Gripenberg, fil.&#x00A0;mag., redaktionsassistent</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Sofia Wahlström, hum.&#x00A0;kand., redaktionsassistent</cell>
+</row>
+<row>
+<cell>Manuskriptkodning</cell>
+<cell>Cecilia Eriksson</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Thomas Gartz, fil.&#x00A0;lic., e-redaktör</cell>
+</row>
+<row>
+<cell>Fotografering av manuskript</cell>
+<cell>Janne Rentola</cell>
+</row>
+<row>
+<cell>Variantkodning</cell>
+<cell>Cecilia Eriksson</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Thomas Gartz</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Mats Dahlberg, fil.&#x00A0;kand., redaktionsassistent</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Katarina Pihlflyckt, fil.&#x00A0;mag., redaktör</cell>
+</row>
+</table>
+</body>
+</text>
+</TEI>

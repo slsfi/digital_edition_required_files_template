@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sls.fi/tei http://www.sls.fi/tei/tei_poem.xsd">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ljungblommor I, Hfrs 1845</title>
+        <respStmt>
+          <resp>Kodning:</resp>
+          <name>CE (07-10-2009)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Granskad av:</resp>
+          <name>NN (XX-XX-200X)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Zacharias Topelius Skrifter</publisher>
+      </publicationStmt>
+      <notesStmt/>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+    <variantEncoding method="parallell-segmentation" location="internal"/>
+    </encodingDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote/>
+        <handNote/>
+      </handNotes>
+    <creation><origDate>1845-XX-XX</origDate><idNo>18284</idNo><idNo type="bookid"/><idNo type="collection">199</idNo><title type="main">Ljungblommor</title></creation><textClass><catRef target="cg_poem"/><catRef target="ce_annotations"/></textClass></profileDesc>
+    <revisionDesc>
+      <change>
+
+      </change>
+      <change>
+
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- – ” ’ -->
+      <div type="poem">
+        <head type="title">Ljungblommor.</head>
+        <head type="motto"><app id="var1" type="sub"><lem type="empty"/></app></head>
+        <lg>
+          <l><app id="var2" type="sub"><lem>Vilda skogen</lem></app> <app id="var2a" type="sub"><lem>har</lem></app> sin <app id="var3" type="sub"><lem>blomma</lem></app> </l>
+          <l>Och sin doft <app id="var4" type="sub"><lem>har</lem></app> <app id="var5" type="int"><lem>ödemarken,</lem></app></l>
+          <l>Ljungen har sin bleka rodnad,</l>
+          <l><app id="var6" type="sub"><lem>Heden äger ock</lem></app> sin glädje;</l>
+          <l>Och det rika menskohjertat, </l>
+          <app id="var7" type="sub"><lem><l>Skall, mer armt än ödemarken,</l>
+          <l>Fattigt mer än sorgsna heden,</l></lem></app>
+          <l><app id="var9" type="sub"><lem>Det ej sina</lem></app> blommor bära,</l>
+          <l><app id="var10" type="sub"><lem>Sjelf sin ljufva tröst ej nära?</lem></app></l>
+        </lg>
+
+        <lg>
+          <app id="var11" type="sub"><lem><l>Några sånger har jag sjungit,</l>
+          <l>När i bröstet hjertat brände,</l>
+          <l>Sjungit dem för Ellis glädje</l>
+          <l>Och för Ainas aftontankar;</l>
+          <l>Selmas panna dervid ljusnat,</l>
+          <l>Fannys ömma ögon skimrat,</l>
+          <l>Emmas blida blåa blickar</l>
+          <l>Klarare än stjernor strålat.</l>
+          <l>Så i vackra ögons värma</l>
+          <l>Sångerna likt drifvor smultit,</l>
+          <l>Runnit upp som morgondrömmar </l>
+          <l>I ett vårligt hjertas kärlek.</l>
+          <l>Nu jag samlat har de späda,</l>
+          <l>Skickar dem åt Suomis flickor,</l>
+          <l>Att en sorgsen stund fördrifva,</l>
+          <l>Att i vårens doft och längtan </l>
+          <l>Sångens ro de hulda gifva.</l></lem></app>
+        </lg>
+
+ 
+        
+        
+
+      </div>
+    </body>
+  </text>
+</TEI.2>

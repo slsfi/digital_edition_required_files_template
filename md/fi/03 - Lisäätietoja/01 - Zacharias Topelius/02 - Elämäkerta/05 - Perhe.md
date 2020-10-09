@@ -1,0 +1,25 @@
+# Perhe
+
+## Vaimo
+
+Topelius kuului nuoresta pitäen samaan seurapiiriin kuin hänen tuleva puolisonsa Emilie Lindqvist (1821–1885). Raatimies Isak Lindqvistin tytär oli musikaalinen ja hyvin tavoiteltu Uudenkaarlepyyn eloisassa seurapiirissä. Ihailijoihin kuului mm. Topeliuksen lähin ystävä Henrik Backman. Vuonna 1842 Emilie ja Zacharias kihlautuivat. Kolmen vuoden kuluttua, juuri ennen uutta vuotta, vietettiin Lindqvistien kodissa heidän sekä Emilien sisaren Mathildan ja hänen kihlattunsa, Uudenkaarlepyyn pormestarin Johan Hæggströmin suuret kaksoishäät. Topelius oli samana vuonna julkaissut ensimmäisen runokokoelmansa *Ljungblommor*, joka sisältää myös hänen kihlatulleen kirjoittamiaan runoja.<br/>
+
+Emiliellä oli sekä kirjallisia että taiteellisia harrastuksia, ja hän luki ja kommentoi usein Topeliuksen kirjoituksia. Eräässä kirjeessään Topelius kertoo pyyhkineensä pois paljon sellaista, mitä Emilie ei ollut hyväksynyt, »mutta minkä Emilie hyväksyi, se kesti kokeen». Emilie kuvitti Topeliuksen ensimmäisen satukokoelman (1847) ja väritti itse kaikkien 500 kirjan kuvat.<br/>
+
+Monien raskauksien ja viiden lapsen menetyksen seurauksena Emilien terveys heikkeni 1860-luvulla. Myös hyvin vieraanvaraisen kodin emännyys oli rasittavaa. Emilie matkusti paranemistarkoituksessa useita kertoja ulkomaille, mutta kuureista huolimatta hänen tilansa paheni hiljalleen. Pitkäaikainen »hermosairaus» osoittautui lopulta sokeritaudiksi. Emilie kuoli 1885 aivohalvaukseen.<br/>
+
+## Tyttäret
+
+Aina-tytär syntyi vuonna 1846, vuoden kuluttua siitä, kun Emilie Lindqvist ja Zacharias Topelius olivat menneet naimisiin. Vuonna 1848 syntyi poika Mikael, joka kuoli kahden vuoden kuluttua Kuddnäsissä. Tyttäret Toini ja Eva syntyivät peräkkäisinä vuosina, 1854 ja 1855. Seuraavista lapsista Rafael eli vain vuoden ja Rosa kolmen vuoden ikäiseksi. Kaksi lasta kuoli syntyessään.<br/>
+
+Vanhin tytär Aina (1846–1916) kiinnostui laulamisesta. Hän kuului siihen kuoroon, joka esiintyi valtiopäivien avajaisten juhlajumalanpalveluksessa 1863, ja hän lauloi aktiivisesti Kevätyhdistyksen kuorossa yli kolmekymmentä vuotta. Topelius oli kuoron runoilijoita, ja kuoro esitti monia hänen Sylvian lauluistaan. Aina oli 1864 Keisarillisen Aleksanterin-Yliopiston promootion yleinen seppeleensitojatar ja tutustui silloin tulevaan mieheensä Berndt Nybergiin. Heidän häihinsä Topelius sepitti runon »Jag vet en fågel i rosengård» (»Lintu ruusutarhassa», suom. Yrjö Jylhä), josta tuli laulukuoron bravuurinumero. Nybergit muuttivat sittemmin Porvooseen ja saivat kahdeksan lasta. Nuorimmasta pojasta Paulista tuli Topeliuksen elämäkerran kirjoittaja.<br/>
+
+Toini ja Eva olivat lähes samanikäiset, mutta he olivat hyvin erilaisia. Molemmat saivat monipuolisen kasvatuksen, sekä yksityisesti että Ruotsalaisessa Rouvasväenkoulussa ja sitten taideaineissa Tukholmassa. Toinilla (1854–1910) oli huomattavasti alentunut kuulo, eikä hän viihtynyt suuressa seurassa. Hän omistautui pääasiassa kirjalliselle työlle. Yhdessä Alexandra Gripenbergin kanssa hän julkaisi lastenlehteä *Nya Trollsländan* ja suomenkielistä lehteä *Tilhi*. Hänen esikoisromaaninsa *I utvecklingstid* (*Kehitysaikana*, molemmilla kielillä 1890) oli Suomen ensimmäisiä tyttökirjoja. Kahden vuoden kuluttua ilmestyi *Familjen Himmelstjerna och Sidenswahnska bolaget* (*Tähtisen perhe ja tilihisepesä*, suom. 1893) ja 1897 satukokoelma *Sommarsjö och vintersnö* (*Kesäisiä ja talvisia tarinoita, satuja ja kertomuksia*, suom. 1898). Toini kuuluu Suomen naisasialiikkeen pioneereihin, ja hän kirjoitti aiheesta monta artikkelia. Lisäksi hän arvosteli nuorisokirjallisuutta pääkaupungin sanomalehdissä ja kirjoitti matkakirjeitä. 1890-luvun lopulla Toini muutti Norjaan, missä hän asui loppuelämänsä.<br/>
+
+Nuorempi ja ulospäin suuntautuneempi sisar Eva (1855–1929) valitsi taidemuodokseen maalaamisen. Hän opiskeli Taideyhdistyksen piirustuskoulussa, mutta myös Kööpenhaminassa ja Pietarissa. Isänsä kehotuksesta hän oleskeli myös Önningebyn taiteilijasiirtokunnassa Ahvenanmaalla. Siellä hän tutustui ruotsalaiseen taidemaalariin J.A.G. Ackeen, jonka kanssa hän solmi avioliiton 1891. Pariskunta asui ajoittain Koivuniemessä, missä Acke maalasi appeaan. Topeliuksen kuoleman jälkeen pariskunta muutti Vaxholmiin Ruotsiin ja adoptoi italialaisen pojan.<br/>
+
+### Lukuvihjeitä
+
+Suvi Ahola, »Tyttökirja puolustaa naisen oikeuksia – Toini Topelius», *»Sain roolin johon en mahdu». Suomalaisen naiskirjallisuuden linjoja*, red. Marja-Liisa Nevala, Helsinki: Otava 1989, s. 254–257.<br/>
+Paul Nyberg, »Toini Topelius, en konturteckning», *Människor och minnen. Personliga hågkomster och släkthistoriska skildringar*, utg. Paul Nyberg och Victor Hoving, Helsingfors: Söderströms 1946.<br/>
+Agneta Rahikainen, »’Zache gubben’ och furstinnorna på Björkudden», *Källan* 2/1998, s. 5–17.<br/>
