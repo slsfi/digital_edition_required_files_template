@@ -9,7 +9,7 @@ email: seesharp@witchmastercreations.com or mikael.norrgard@gmail.com
 Rights to use and further develop given to Svenska litteratursällskapet i Finland.
 -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0">
-
+ <xsl:output method="html"/>
   <xsl:param name="bookId" />
 
   <!-- OPENER CLOSER START -->
@@ -309,12 +309,10 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
   <xsl:template match="tei:milestone">
     <xsl:choose>
       <xsl:when test="@type='bar'">
-        <p class="center"><img src="images/bar.png"/></p>
+      	<hr class="milestoneBar"/>
       </xsl:when>
       <xsl:when test="@type='smallBar'">
-        <p class="center">
-          <img src="images/smallbar.png"/>
-        </p>
+      	<hr class="milestoneSmallBar"/>
       </xsl:when>
       <xsl:when test="@unit='part' and @when">
         <span class="milestoneWhen center">
@@ -533,31 +531,70 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
     </xsl:if>
     <xsl:choose>
       <xsl:when test="string-length($sectionToProcess)&gt;0">
-        <xsl:for-each select="//tei:div[@id=$sectionToProcess]//tei:note">
-          <xsl:call-template name="printFootNote"/>
-        </xsl:for-each>
+        <section>
+          <xsl:attribute name="role">
+            <xsl:text>doc-endnotes</xsl:text>
+          </xsl:attribute>
+          <ol>
+            <xsl:attribute name="class">
+              <xsl:text>footnotesList</xsl:text>
+            </xsl:attribute>
+            <xsl:for-each select="//tei:div[@id=$sectionToProcess]//tei:note">
+              <xsl:call-template name="printFootNote"/>
+            </xsl:for-each>
+          </ol>
+        </section>
       </xsl:when>
       <xsl:otherwise>
-        <xsl:for-each select="//tei:note">
-          <xsl:call-template name="printFootNote"/>
-        </xsl:for-each>
+      <section>
+          <xsl:attribute name="role">
+            <xsl:text>doc-endnotes</xsl:text>
+          </xsl:attribute>
+          <ol>
+            <xsl:attribute name="class">
+              <xsl:text>footnotesList</xsl:text>
+            </xsl:attribute>
+            <xsl:for-each select="//tei:note">
+              <xsl:call-template name="printFootNote"/>
+            </xsl:for-each>
+          </ol>
+        </section>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
   
   <xsl:template name="printFootNote">
     <xsl:if test="contains(@place, 'foot') or contains(@place, 'end') or contains(@id, 'ftn')">
-      <p>
-        <xsl:attribute name="class">
-          <xsl:text>footnote hand</xsl:text>
-        </xsl:attribute>
+      <li>
         <xsl:attribute name="id">
           <xsl:value-of select="@id"/>
         </xsl:attribute>
-        <xsl:value-of select="@n"/>
-        <xsl:text> </xsl:text>
-        <xsl:apply-templates />
-      </p>
+        <xsl:attribute name="class">
+          <xsl:text>footnoteItem</xsl:text>
+        </xsl:attribute>
+        <xsl:attribute name="role">
+          <xsl:text>doc-endnote</xsl:text>
+        </xsl:attribute>
+        <a>
+          <xsl:attribute name="href">
+            <xsl:text>#</xsl:text>
+            <xsl:value-of select="@id"/>
+          </xsl:attribute>
+          <xsl:attribute name="class">
+            <xsl:text>xreference footnoteReference</xsl:text>
+          </xsl:attribute>
+          <xsl:attribute name="role">
+            <xsl:text>doc-backlink</xsl:text>
+          </xsl:attribute>
+          <xsl:value-of select="@n"/>
+        </a>
+        <span>
+          <xsl:attribute name="class">
+            <xsl:text>footnoteText</xsl:text>
+          </xsl:attribute>
+          <xsl:apply-templates />
+        </span>
+      </li>
     </xsl:if>
   </xsl:template>
 
