@@ -118,10 +118,10 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
   <xsl:template match="tei:figure">
     <xsl:choose>
       <xsl:when test="@type='pictogram' and child::tei:figDesc">
-        <img class="symbol" src="images/symbol_illustration.gif"/>
+        <img class="symbol" src="images/symbol_illustration.svg"/>
       </xsl:when>
       <xsl:when test="@type='pictogram' and not(child::tei:figDesc)">
-        <img class="symbol" src="images/symbol_illustration.gif"/>
+        <img class="symbol" src="images/symbol_illustration.svg"/>
       </xsl:when>
       <xsl:when test="$bookId='29' or $bookId='14' and @type='illustration'">
         <img class="symbol" src="images/image_symbol.gif"/>
