@@ -577,7 +577,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
         <img class="symbol" src="images/symbol_pictogram.gif"/>
       </xsl:when>
       <xsl:when test="@type='illustration'">
-        <img class="symbol" src="images/symbol_illustration.gif"/>
+        <img class="symbol" src="images/symbol_illustration.svg"/>
       </xsl:when>
     </xsl:choose>
   </xsl:template>
