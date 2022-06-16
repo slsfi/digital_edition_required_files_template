@@ -580,7 +580,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 
   <xsl:template name="handSymbol">
     <xsl:if test="@hand or @new">
-      <img src="images/hand.png" class="tooltiptrigger ttMs" />
+      <img src="images/hand.png" class="tooltiptrigger ttMs handSymbol" />
       <span class="tooltip">
         <xsl:variable name="handId">
           <xsl:choose>
